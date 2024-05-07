@@ -16,8 +16,8 @@ html {
 
 body {
   font-size: 1.4rem;
-  background: #59C173; 
-  background: linear-gradient(to right, #5D26C1, #a17fe0, #59C173);
+  background: #74ebd5; 
+  background: linear-gradient(to right, #ACB6E5, #74ebd5);
 }
 /* Css of fixing the navbar  */
 
@@ -73,7 +73,6 @@ h2 {
 /* maintain the list order and main sections  */
 
 li {
-
   margin-left: 3rem;
   margin-bottom: 0.5rem;
   line-height: 1.5;
